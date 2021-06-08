@@ -1,0 +1,1 @@
+# django-10am-class
